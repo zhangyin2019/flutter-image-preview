@@ -3,6 +3,7 @@
 在实际APP开发中，图片预览是必不可少的组件，通过photo_view来进行封装，以此分享
 
 ### 使用方法
+* 先把preview.dart拷贝到自己的公共组件目录中
 * pubspec.yaml中安装
 ```java
 photo_view: ^0.13.0
