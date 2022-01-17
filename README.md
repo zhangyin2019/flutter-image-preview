@@ -76,7 +76,7 @@ PreviewPage(
 )
 ```
 
-* 效果
+### 效果
 
 ![1](https://user-images.githubusercontent.com/49790909/149075095-125f7a96-ced2-4ba7-a3ed-4805e9d2fda7.jpg)
 ![2](https://user-images.githubusercontent.com/49790909/149075127-c211468e-920e-49d2-9887-281c535333a8.jpg)
